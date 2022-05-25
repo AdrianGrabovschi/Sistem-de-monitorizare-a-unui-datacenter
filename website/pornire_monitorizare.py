@@ -1,0 +1,1 @@
+open("/tmp/availability", 'w')
